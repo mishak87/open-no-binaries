@@ -1,0 +1,17 @@
+{
+  "name": "open-no-binaries",
+  "main": "./lib/open-no-binaries",
+  "version": "0.0.0",
+  "description": "Prevent opening binary files to prevent atom freezing",
+  "keywords": [
+      "binary", "prevent", "opening"
+  ],
+  "repository": "https://github.com/mishak87/open-no-binaries",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "isbinaryfile": "3.x"
+  }
+}
