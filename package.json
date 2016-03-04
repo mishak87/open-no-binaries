@@ -1,7 +1,7 @@
 {
   "name": "open-no-binaries",
   "main": "./lib/open-no-binaries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prevent opening binary files to prevent atom freezing",
   "keywords": [
     "binary",
