@@ -12,4 +12,4 @@ module.exports =
 				title: "Don't check these file types:"
 				description: "Use comma separated, lowercase values (e.g. `pdf, ico, png`)"
 				type: "array"
-				default: [ "png", "jpeg", "jpg", "gif", "ico" ]
+				default: [ "png", "jpeg", "jpg", "gif", "ico", "bmp", "webp" ]
